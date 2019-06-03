@@ -1,1 +1,1 @@
-worker: python hq_main.py
+worker: python hq_token.py
